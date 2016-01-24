@@ -1,4 +1,4 @@
-# Code-Analyzer-OCD-with-Implementation
+# Code-Analyzer
 
 Project #1 is Operational Concept Document of Code Analyzer & Project #2 is the implemantation of it.
 

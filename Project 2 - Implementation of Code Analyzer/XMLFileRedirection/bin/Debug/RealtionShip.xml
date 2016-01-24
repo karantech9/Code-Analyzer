@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="utf-8"?><RelationType>Aggregation<FromName>Display</FromName><ToName>Xyz</ToName><RelationType>Inheritance<FromName>Display</FromName><ToName>Test</ToName><RelationType>Composition<FromName>Display</FromName><ToName>ValueType</ToName></RelationType></RelationType></RelationType>

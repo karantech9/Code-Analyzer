@@ -1,0 +1,48 @@
+
+
+namespace TypeRelationships
+{
+
+public delegate void Del(string message);
+ 
+
+  class UsedType
+  {
+    public UsedType(string s)
+    {
+      str = s;
+    }
+    public void say()
+    {
+      Console.Write("\n  hello, I'm a used type \"{0}\"", str);
+    }
+    private string str;
+  }
+  class DemoRelationships
+  {
+   
+
+    //----< constructor initializes composed data >------------------
+
+    
+    
+    public void say(UsedType ut)
+    {
+      ct.say();
+      ut.say();
+    }
+    //----< entry point >--------------------------------------------
+
+    static void Main(string[] args)
+    {
+      
+
+      DemoRelationships p = new DemoRelationships();
+      p.at.say();
+      p.dt.say();
+      UsedType ut = new UsedType("holding this string");
+      p.say(ut);
+      Console.Write("\n\n");
+    }
+  }
+}

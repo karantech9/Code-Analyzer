@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--Project2 XML-->
+<PROJECT2>
+  <FileName>E:\Project2\TESTFOLDER\DemoRelationships.cs<NameSpace>TypeRelationships<Class>AggregatedType<function>say<Size>3</Size><Complexity>1</Complexity></function></Class><Class>DerivedType<function>DerivedType<Size>3</Size><Complexity>1</Complexity></function><function>say<Size>3</Size><Complexity>1</Complexity></function><function>say<Size>6</Size><Complexity>1</Complexity></function></Class><Class>UsedType<function>UsedType<Size>3</Size><Complexity>1</Complexity></function><function>say<Size>3</Size><Complexity>1</Complexity></function></Class><Class>DemoRelationships<function>DemoRelationships<Size>5</Size><Complexity>1</Complexity></function><function>say<Size>4</Size><Complexity>1</Complexity></function><function>Main<Size>11</Size><Complexity>1</Complexity></function></Class><Class>Circle</Class><Class>Circle1</Class><Class>sunil</Class></NameSpace></FileName>
+  <FileName>E:\Project2\TESTFOLDER\xyz.cs</FileName>
+</PROJECT2>

@@ -1,0 +1,18 @@
+E:\Project2\FileManager\bin\Debug\FileManager.exe.config
+E:\Project2\FileManager\bin\Debug\FileManager.exe
+E:\Project2\FileManager\bin\Debug\FileManager.pdb
+E:\Project2\FileManager\obj\Debug\FileManager.csprojResolveAssemblyReference.cache
+E:\Project2\FileManager\obj\Debug\FileManager.exe
+E:\Project2\FileManager\obj\Debug\FileManager.pdb
+C:\Users\Karan92\Downloads\SMA\SMA\Project2\Project2\FileManager\bin\Debug\FileManager.exe.config
+C:\Users\Karan92\Downloads\SMA\SMA\Project2\Project2\FileManager\bin\Debug\FileManager.exe
+C:\Users\Karan92\Downloads\SMA\SMA\Project2\Project2\FileManager\bin\Debug\FileManager.pdb
+C:\Users\Karan92\Downloads\SMA\SMA\Project2\Project2\FileManager\obj\Debug\FileManager.csprojResolveAssemblyReference.cache
+C:\Users\Karan92\Downloads\SMA\SMA\Project2\Project2\FileManager\obj\Debug\FileManager.exe
+C:\Users\Karan92\Downloads\SMA\SMA\Project2\Project2\FileManager\obj\Debug\FileManager.pdb
+C:\Users\Karan92\Documents\SMA\Project 1 & 2  Code Analyzer\Project 2 - Implementation of Code Analyzer\FileManager\bin\Debug\FileManager.exe.config
+C:\Users\Karan92\Documents\SMA\Project 1 & 2  Code Analyzer\Project 2 - Implementation of Code Analyzer\FileManager\bin\Debug\FileManager.exe
+C:\Users\Karan92\Documents\SMA\Project 1 & 2  Code Analyzer\Project 2 - Implementation of Code Analyzer\FileManager\bin\Debug\FileManager.pdb
+C:\Users\Karan92\Documents\SMA\Project 1 & 2  Code Analyzer\Project 2 - Implementation of Code Analyzer\FileManager\obj\Debug\FileManager.csprojResolveAssemblyReference.cache
+C:\Users\Karan92\Documents\SMA\Project 1 & 2  Code Analyzer\Project 2 - Implementation of Code Analyzer\FileManager\obj\Debug\FileManager.exe
+C:\Users\Karan92\Documents\SMA\Project 1 & 2  Code Analyzer\Project 2 - Implementation of Code Analyzer\FileManager\obj\Debug\FileManager.pdb

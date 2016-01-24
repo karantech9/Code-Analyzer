@@ -1,0 +1,6 @@
+E:\Project2\InputParser\bin\Debug\InputParser.exe.config
+E:\Project2\InputParser\bin\Debug\InputParser.exe
+E:\Project2\InputParser\bin\Debug\InputParser.pdb
+E:\Project2\InputParser\obj\Debug\InputParser.csprojResolveAssemblyReference.cache
+E:\Project2\InputParser\obj\Debug\InputParser.exe
+E:\Project2\InputParser\obj\Debug\InputParser.pdb

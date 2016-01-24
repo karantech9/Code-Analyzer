@@ -1,0 +1,47 @@
+
+namespace TypeRelationships
+{
+  public class AggregatedType  // all classes are reference types
+  {
+  }
+  public class DerivedType : AggregatedType
+  {
+    public DerivedType()
+    {
+      atStr = "my type is DerivedType";
+    }
+  }
+  struct ComposedType  // structs are value types
+  {
+  }
+  class UsedType
+  {
+    public UsedType(string s)
+    {
+      str = s;
+    }
+  }
+  class DemoRelationships
+  {
+    ComposedType ct;  // note: no new statement
+    AggregatedType at = new AggregatedType();
+    DerivedType dt = new DerivedType();
+    public DemoRelationships()
+    {
+    }
+    public void say(UsedType ut)
+    {
+      ct.say();
+      ut.say();
+    }
+    static void Main(string[] args)
+    {
+      DemoRelationships p = new DemoRelationships();
+      p.at.say();
+      p.dt.say();
+      UsedType ut = new UsedType("holding this string");
+      p.say(ut);
+      Console.Write("\n\n");
+    }
+  }
+}
